@@ -1,0 +1,40 @@
+$base-font-size: 16px;
+$font-family-sans-serif: Helvetica, Arial, sans-serif;
+$base-font-family: $font-family-sans-serif;
+
+//$headings-font-family: "Cubano";
+//$headings-font-family: "ProximaNovax";
+
+//Colors
+$bgGray: #f6f7f9;
+$bgGreen: #005b5d;
+$borderGray: #dadee5;
+$green: #095b5d;
+$orange: #cf5e31;
+$orangeText: #d25f27;
+
+
+
+//responsive
+$screen-phone-max: 640px;
+
+$screen-tablet-landscape-min: 641px;
+$screen-tablet-landscape-max: 1050px;
+
+$screen-tablet-portrait-min: 641px;
+$screen-tablet-portrait-max: 768px;
+
+$screen-laptop-min: 1051px;
+$screen-laptop-max: 1200px;
+
+$screen-desktop-min: 1201px;
+
+$line-height-base: 1.428571429 !default; // 20/14
+$btn-font-weight: 400 !default;
+$border-radius-base: 6px !default;
+$btn-default-color: #333 !default;
+$padding-base-vertical: 7px !default;
+$padding-base-horizontal: 12px !default;
+$colorBlue: #006db6;
+
+$grid-gutter-width: 14px;
